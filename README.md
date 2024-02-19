@@ -156,3 +156,13 @@
 | 100 | Fintastic        | ?        | No Vacancy      | No Vacancy    | [Fintastic AI](https://www.linkedin.com/company/fintastic-ai/)                   |
 | 101 | Firmbase         | ?        | NRV             | BDR           | [Firmbase AI](https://www.linkedin.com/company/firmbase-ai/)                   |
 | 102 | Finaloop         | ?        | No Vacancy      | No Vacancy    | [Finaloop](https://www.linkedin.com/company/finaloop/)                   |
+
+
+
+### Название_секции
+| Заголовок1 | Заголовок2 | Заголовок3 | Заголовок4 | Заголовок5 | Ссылка |
+|------------|------------|------------|------------|------------|--------|
+| Значение   | Значение   | Значение   | Значение   | Значение   | [Ссылка](https://www.linkedin.com/company/example/) |
+| <td colspan="6">Текст, который занимает всю ширину таблицы</td> |---|
+| Значение   | Значение   | Значение   | Значение   | Значение   | [Ссылка](https://www.linkedin.com/company/example/) |
+| Значение   | Значение   | Значение   | Значение   | Значение   | [Ссылка](https://www.linkedin.com/company/example/) |
