@@ -45,3 +45,25 @@
 | 36 | [Pattern Insurance](https://www.linkedin.com/company/pattern-insurance/)                   |         N/A          |    &#10060;    |                  N/A |
 | 37 | [Joshu](https://www.linkedin.com/company/joshu/)                                           |         N/A          |    &#10060;    |                  N/A |
 | 38 | Bambi                                                                                      |          ?           |       ?        |                    ? |
+|    | **Neobanks**                                                                                     |                      |                |                      |
+| 39 | [Hello from Lili](https://www.linkedin.com/company/hellofromlili/)                               |      JS, React       |    &#9989;     |      Senior Frontend |
+| 40 | [One Zero Digital Private Bank](https://www.linkedin.com/company/one-zero-digital-private-bank/) |         N/A          |    &#9989;     |            Help Desk |
+| 41 | [Runviably](https://www.linkedin.com/company/runviably/)                                         |         N/A          |    &#10060;    |                  N/A |
+| 42 | [Jassby Inc.](https://www.linkedin.com/company/jassby-inc/)                                      |         N/A          |    &#10060;    |                  N/A |
+| 43 | [Fido Money Lending Ltd.](https://www.linkedin.com/company/fido-money-lending-ltd/)              |         N/A          |    &#9989;     |      Product Manager |
+| 44 | [Spiral Gives](https://www.linkedin.com/company/spiral-gives/)                                   |         N/A          |    &#10060;    |                  N/A |
+| 45 | [LanceCo](https://www.linkedin.com/company/lanceco/)                                             |         N/A          |    &#10060;    |                  N/A |
+| 46 | [Neema Official](https://www.linkedin.com/company/neema-official/)                               |        Swift         |    &#9989;     |        iOS developer |
+|    | **Banking Tech**                                                                                 |                      |                |                      |
+| 47 | [Access Fintech](https://www.linkedin.com/company/access-fintech/)                               |      Java/Scala      |    &#9989;     |       Senior Backend |
+| 48 | [OpenLegacy Inc.](https://www.linkedin.com/company/openlegacy-inc/)                              |         N/A          |    &#10060;    |                  N/A |
+| 49 | [Tenurex](https://www.linkedin.com/company/tenurex/)                                             |         N/A          |    &#10060;    |                  N/A |
+| 50 | [Mirato TPRM](https://www.linkedin.com/company/miratotprm/)                                      |         N/A          |    &#10060;    |                  N/A |
+| 51 | [Otoma](https://www.linkedin.com/company/otoma/)                                                 |         N/A          |    &#10060;    |                  N/A |
+| 52 | [Surecomp](https://www.linkedin.com/company/surecomp/)                                           |         N/A          |    &#9989;     |               DevOps |
+|    | **Embedded Finance**                                                                             |                      |                |                      |
+| 53 | [Rapyd Payments](https://www.linkedin.com/company/rapydpayments/)                                |        Python        |    &#9989;     |    Backend Team Lead |
+| 54 | [Alviere](https://www.linkedin.com/company/alviere/)                                             |         N/A          |    &#10060;    |                  N/A |
+| 55 | [Unit Finance](https://www.linkedin.com/company/unit-finance/)                                   |         N/A          |    &#9989;     |       Senior Backend |
+| 56 | [PayZen](https://www.linkedin.com/company/payzen/)                                               |       Node.js        |    &#9989;     |       Senior Backend |
+| 57 | [UNIPaas](https://www.linkedin.com/company/unipaas/)                                             |         N/A          |    &#10060;    |                  N/A | 
