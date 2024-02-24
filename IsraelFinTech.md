@@ -67,3 +67,17 @@
 | 55 | [Unit Finance](https://www.linkedin.com/company/unit-finance/)                                   |         N/A          |    &#9989;     |       Senior Backend |
 | 56 | [PayZen](https://www.linkedin.com/company/payzen/)                                               |       Node.js        |    &#9989;     |       Senior Backend |
 | 57 | [UNIPaas](https://www.linkedin.com/company/unipaas/)                                             |         N/A          |    &#10060;    |                  N/A | 
+|    | **WealthTech**                                                                                         |                      |                |                      |
+| 58 | [Capitolis](https://www.linkedin.com/company/capitolis.com/)                                           |         N/A          |    &#9989;     |               DevOps |
+| 59 | [Sharegain](https://www.linkedin.com/company/sharegain/)                                               |         OOP          |    &#9989;     |       Senior Backend |
+| 60 | [eToro](https://www.linkedin.com/company/etoro/)                                                       |         N/A          |    &#9989;     |      Product Manager |
+| 61 | [Final Israel](https://www.linkedin.com/company/finalisrael/)                                          |      C++, Rust       |    &#9989;     |       Senior Backend |
+| 62 | [FundGuard](https://www.linkedin.com/company/fundguard/)                                               |         Java         |    &#9989;     |       Senior Backend |
+| 63 | [Pontera](https://www.linkedin.com/company/pontera/)                                                   |         N/A          |    &#9989;     |         Senior Front |
+| 64 | [Tradency](https://www.linkedin.com/company/tradency/)                                                 |         N/A          |    &#10060;    |                  N/A |
+| 65 | [Panda Trading Systems](https://www.linkedin.com/company/panda-trading-systems/)                       |         .Net         |    &#9989;     |       .Net Developer |
+| 66 | [Futora](https://www.linkedin.com/company/futora/)                                                     |         N/A          |    &#10060;    |                  N/A |
+| 67 | [Bondit](https://www.linkedin.com/company/bondit/)                                                     |         N/A          |    &#10060;    |                  N/A |
+| 68 | [Capitali.se](https://www.linkedin.com/company/capitali-se/)                                           |         N/A          |    &#10060;    |                  N/A |
+| 69 | [Finnovest Financial Technologies](https://www.linkedin.com/company/finnovest-financial-technologies/) |         N/A          |    &#10060;    |                  N/A |
+| 70 | [Nummularii](https://www.linkedin.com/company/nummularii/)                                             |         N/A          |    &#10060;    |                  N/A |
